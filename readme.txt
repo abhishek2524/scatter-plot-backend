@@ -1,5 +1,5 @@
 - To start Backend Server :
-    - Open terminal with path : "/backend"
+    - Open terminal with path : "/sactter-plot-backend-main"
     - Then enter "npm run start" command to run the server
 - Backend is running at port = 5000 in localhost
 - Note : Before starting server run "npm install"
